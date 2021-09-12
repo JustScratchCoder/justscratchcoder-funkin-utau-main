@@ -1,0 +1,3 @@
+name=Caitlin Koi V2
+image=koi.bmp
+sample=sample.wav
